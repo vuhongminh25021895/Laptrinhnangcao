@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a5a517a-9af9-49db-b982-82e10634eb3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/issue_template/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/code-quanlity.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/release.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/vn/edu/auction/client/service/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/vn/edu/auction/client/view/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/css/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/fxml/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/dao/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/exception/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/factory/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/service/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/socket/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/resources/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/vn/edu/auction/server/model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/java/vn/edu/auction/server/.gitkeep" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vuhongminh25021895&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/vuhongminh25021895/Laptrinhnangcao.git&quot;,
+    &quot;accountId&quot;: &quot;fdb45e98-1371-4d05-9f31-2f6132b9edde&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3BsvELX1fYbw0XbO2fr9WJX8Lat" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a5a517a-9af9-49db-b982-82e10634eb3c" name="Changes" comment="" />
+      <created>1775290480532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775290480532</updated>
+    </task>
+    <servers />
+  </component>
+</project>
