@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a5a517a-9af9-49db-b982-82e10634eb3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/issue_template/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/code-quanlity.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/release.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main/java/vn/edu/auction/client/service/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main/java/vn/edu/auction/client/view/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main/resources/css/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main/resources/fxml/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/controller/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/dao/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/exception/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/factory/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/service/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/vn/edu/auction/server/socket/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/resources/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/vn/edu/auction/server/model/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/test/java/vn/edu/auction/server/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/test-cicd-setup" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -57,6 +36,9 @@
     <commands />
     <urls />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -70,11 +52,15 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.appearance",
     "to.speed.mode.migration.done": "true"
   }
