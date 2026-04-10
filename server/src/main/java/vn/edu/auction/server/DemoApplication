@@ -1,0 +1,25 @@
+package com.example.demo;
+
+class History{
+    public void Log(User u, Object o){
+        System.out.println(u.name + ": " + o);
+    }
+}
+
+
+public class DemoApplication {
+
+    public static void main(String[] args) {
+        Product p1 = new Product("IPhone 17", "second-hand phone", 1000);
+        User u1 = new User("Lap", 1000);
+        History h = new History();
+        p1.printInfo();
+        u1.addMoney(200);
+        double bid = u1.Raise();
+        if (bid > 0){
+            p1.update(bid);
+        }
+        h.Log(u1,bid);
+        p1.printInfo();
+    }
+}
