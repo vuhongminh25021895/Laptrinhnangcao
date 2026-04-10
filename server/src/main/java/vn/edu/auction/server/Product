@@ -1,0 +1,32 @@
+package com.example.demo;
+
+import java.time.LocalDateTime;
+
+interface Entity{
+    void printInfo();
+}
+public class Product implements Entity{
+    String name;
+    String description;
+    double startPrice;
+    double nowPrice = startPrice;
+
+    LocalDateTime starttime = LocalDateTime.now();
+    LocalDateTime endtime = starttime.plusMinutes(1);
+
+    public Product(String name, String description, double startPrice){
+        this.name = name;
+        this.description = description;
+        this.startPrice = startPrice;
+        this.nowPrice = startPrice;
+    }
+
+    public void printInfo(){
+        System.out.println("Item: " + name + "\n" +
+                "Initial Price: "+ startPrice + "\n" +
+                "Price right now: " + nowPrice);
+    }
+    public void update(double b){
+        nowPrice = b;
+    }
+}
