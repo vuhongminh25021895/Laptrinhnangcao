@@ -1,0 +1,30 @@
+package com.example.demo;
+
+import java.util.Scanner;
+
+public class User implements Entity{
+    Scanner sc = new Scanner(System.in);
+    String name;
+    double money;
+
+    public User(String name, double money){
+        this.name = name;
+        this.money = money;
+    }
+    public void printInfo(){
+        System.out.println("User: " + name +
+                "Money: " + money);
+    }
+
+    public void addMoney(double cash){
+        money += cash;
+    }
+    public double Raise(){
+        double a = sc.nextDouble();
+        if (a <= money){
+            money -= a;
+            return a;
+        }
+        return -1;
+    }
+}
